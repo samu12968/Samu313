@@ -1,6 +1,6 @@
 {
     "language": "en",
-    "keyActive": "",
+    "keyActive": ".",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "notiGroup": true,
@@ -16,12 +16,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "STYLO ☢️_𖣘 -SAMU ⚠️",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100086680386976",
-        "100063460095373",
-        "61550035211214"
+        "61553592204370"
     ],
     "NDH": [
         "100082395531611"
